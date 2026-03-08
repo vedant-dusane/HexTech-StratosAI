@@ -102,6 +102,8 @@ npm install
 npm run dev
 ```
 
+When running locally the ports are:
+
 | URL | Description |
 |-----|-------------|
 | http://localhost:5173 | StratosAI frontend |
