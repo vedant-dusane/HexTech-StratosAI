@@ -169,5 +169,6 @@ ALLOWED_ORIGINS=http://localhost:5173,http://localhost:3000
 | Sumit Ghavri | Member |
 
 **Institute:** Thakur College of Engineering & Technology
+
 **Event:** Hackanova 5.0 · Software Track · Agentic AI
 **Contact:** vibgroy28@gmail.com
